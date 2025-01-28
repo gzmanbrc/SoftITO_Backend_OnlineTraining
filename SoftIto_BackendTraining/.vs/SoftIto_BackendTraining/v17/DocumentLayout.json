@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\gzman\\Documents\\GitHub\\SoftITO_Backend_OnlineTraining\\SoftIto_BackendTraining\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7A9DFA53-F006-45C2-87D1-5AF06E19AB9B}|SecondDay\\SecondDay.csproj|c:\\users\\gzman\\documents\\github\\softito_backend_onlinetraining\\softito_backendtraining\\secondday\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9DFA53-F006-45C2-87D1-5AF06E19AB9B}|SecondDay\\SecondDay.csproj|solutionrelative:secondday\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F5876C0B-2567-4C1D-841C-49B747E85260}|FirstLesson\\FirstLesson.csproj|c:\\users\\gzman\\documents\\github\\softito_backend_onlinetraining\\softito_backendtraining\\firstlesson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5876C0B-2567-4C1D-841C-49B747E85260}|FirstLesson\\FirstLesson.csproj|solutionrelative:firstlesson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gzman\\Documents\\GitHub\\SoftITO_Backend_OnlineTraining\\SoftIto_BackendTraining\\SecondDay\\Program.cs",
+              "RelativeDocumentMoniker": "SecondDay\\Program.cs",
+              "ToolTip": "C:\\Users\\gzman\\Documents\\GitHub\\SoftITO_Backend_OnlineTraining\\SoftIto_BackendTraining\\SecondDay\\Program.cs",
+              "RelativeToolTip": "SecondDay\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T20:41:42.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gzman\\Documents\\GitHub\\SoftITO_Backend_OnlineTraining\\SoftIto_BackendTraining\\FirstLesson\\Program.cs",
               "RelativeDocumentMoniker": "FirstLesson\\Program.cs",
