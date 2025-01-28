@@ -19,6 +19,7 @@ Each project will focus on specific backend topics, starting from the basics of 
 
 ### Daily Progress
 - **Day 1**: What is the Algorithms, Basic C# syntax and Variables Rules
+- **Day 2**: Operators, conditional statements, simple calculator, and exam score simulation.
 
 ## Contribution
 
