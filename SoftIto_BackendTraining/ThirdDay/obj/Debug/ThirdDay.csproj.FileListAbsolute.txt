@@ -1,0 +1,7 @@
+C:\Users\gzman\Documents\GitHub\SoftITO_Backend_OnlineTraining\SoftIto_BackendTraining\ThirdDay\obj\Debug\ThirdDay.csproj.AssemblyReference.cache
+C:\Users\gzman\Documents\GitHub\SoftITO_Backend_OnlineTraining\SoftIto_BackendTraining\ThirdDay\obj\Debug\ThirdDay.csproj.CoreCompileInputs.cache
+C:\Users\gzman\Documents\GitHub\SoftITO_Backend_OnlineTraining\SoftIto_BackendTraining\ThirdDay\bin\Debug\ThirdDay.exe.config
+C:\Users\gzman\Documents\GitHub\SoftITO_Backend_OnlineTraining\SoftIto_BackendTraining\ThirdDay\bin\Debug\ThirdDay.exe
+C:\Users\gzman\Documents\GitHub\SoftITO_Backend_OnlineTraining\SoftIto_BackendTraining\ThirdDay\bin\Debug\ThirdDay.pdb
+C:\Users\gzman\Documents\GitHub\SoftITO_Backend_OnlineTraining\SoftIto_BackendTraining\ThirdDay\obj\Debug\ThirdDay.exe
+C:\Users\gzman\Documents\GitHub\SoftITO_Backend_OnlineTraining\SoftIto_BackendTraining\ThirdDay\obj\Debug\ThirdDay.pdb
