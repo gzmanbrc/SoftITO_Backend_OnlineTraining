@@ -174,7 +174,7 @@ namespace ThirdDay
             */
             #endregion
 
-            // loops --> for - do - while while 
+            // loops --> for - do while - while 
 
             #region for
             /*
