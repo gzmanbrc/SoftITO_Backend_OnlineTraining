@@ -21,6 +21,7 @@ Each project will focus on specific backend topics, starting from the basics of 
 - **Day 1**: What is the Algorithms, Basic C# syntax and Variables Rules
 - **Day 2**: Operators, conditional statements, simple calculator, and exam score simulation.
 - **Day 3**: Explored body mass index calculation, fuel price comparison, switch case, ternary operator, loops (for, do, while), and pattern creation.
+- **Day 4**: Loops, Patterns, and  Basic Banking System
 
 ## Contribution
 
