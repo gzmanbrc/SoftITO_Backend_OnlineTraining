@@ -22,6 +22,9 @@ Each project will focus on specific backend topics, starting from the basics of 
 - **Day 2**: Operators, conditional statements, simple calculator, and exam score simulation.
 - **Day 3**: Explored body mass index calculation, fuel price comparison, switch case, ternary operator, loops (for, do, while), and pattern creation.
 - **Day 4**: Loops, Patterns, and  Basic Banking System
+- **Day 5**: Arrays and Methods
+- **Day 6**: Methods and SQL Queries
+- **Day 7**: SQL Queries and Basic Database Operations
 
 ## Contribution
 
