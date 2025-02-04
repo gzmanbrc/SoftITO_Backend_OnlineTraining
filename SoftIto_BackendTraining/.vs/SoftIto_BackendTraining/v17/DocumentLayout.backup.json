@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\gzman\\Documents\\GitHub\\SoftITO_Backend_OnlineTraining\\SoftIto_BackendTraining\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{04935688-0930-47D8-9BE7-2CB0C95A28A6}|FifthDay\\FifthDay.csproj|c:\\users\\gzman\\documents\\github\\softito_backend_onlinetraining\\softito_backendtraining\\fifthday\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04935688-0930-47D8-9BE7-2CB0C95A28A6}|FifthDay\\FifthDay.csproj|solutionrelative:fifthday\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{49A88793-3A90-4742-8C3F-E432F2E0DDE2}|FourthDay\\FourthDay.csproj|c:\\users\\gzman\\documents\\github\\softito_backend_onlinetraining\\softito_backendtraining\\fourthday\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49A88793-3A90-4742-8C3F-E432F2E0DDE2}|FourthDay\\FourthDay.csproj|solutionrelative:fourthday\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -36,18 +40,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gzman\\Documents\\GitHub\\SoftITO_Backend_OnlineTraining\\SoftIto_BackendTraining\\FifthDay\\Program.cs",
+              "RelativeDocumentMoniker": "FifthDay\\Program.cs",
+              "ToolTip": "C:\\Users\\gzman\\Documents\\GitHub\\SoftITO_Backend_OnlineTraining\\SoftIto_BackendTraining\\FifthDay\\Program.cs",
+              "RelativeToolTip": "FifthDay\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwEMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:09:51.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gzman\\Documents\\GitHub\\SoftITO_Backend_OnlineTraining\\SoftIto_BackendTraining\\FourthDay\\Program.cs",
               "RelativeDocumentMoniker": "FourthDay\\Program.cs",
               "ToolTip": "C:\\Users\\gzman\\Documents\\GitHub\\SoftITO_Backend_OnlineTraining\\SoftIto_BackendTraining\\FourthDay\\Program.cs",
               "RelativeToolTip": "FourthDay\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAOIAAAAAAAAAAAAAAGwBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-30T18:36:02.278Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gzman\\Documents\\GitHub\\SoftITO_Backend_OnlineTraining\\SoftIto_BackendTraining\\ThirdDay\\Program.cs",
               "RelativeDocumentMoniker": "ThirdDay\\Program.cs",
@@ -59,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gzman\\Documents\\GitHub\\SoftITO_Backend_OnlineTraining\\SoftIto_BackendTraining\\SecondDay\\Program.cs",
               "RelativeDocumentMoniker": "SecondDay\\Program.cs",
@@ -71,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gzman\\Documents\\GitHub\\SoftITO_Backend_OnlineTraining\\SoftIto_BackendTraining\\FirstLesson\\Program.cs",
               "RelativeDocumentMoniker": "FirstLesson\\Program.cs",

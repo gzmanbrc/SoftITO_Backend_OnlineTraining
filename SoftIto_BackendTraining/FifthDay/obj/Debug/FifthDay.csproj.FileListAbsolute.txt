@@ -1,0 +1,7 @@
+C:\Users\gzman\Documents\GitHub\SoftITO_Backend_OnlineTraining\SoftIto_BackendTraining\FifthDay\bin\Debug\FifthDay.exe.config
+C:\Users\gzman\Documents\GitHub\SoftITO_Backend_OnlineTraining\SoftIto_BackendTraining\FifthDay\bin\Debug\FifthDay.exe
+C:\Users\gzman\Documents\GitHub\SoftITO_Backend_OnlineTraining\SoftIto_BackendTraining\FifthDay\bin\Debug\FifthDay.pdb
+C:\Users\gzman\Documents\GitHub\SoftITO_Backend_OnlineTraining\SoftIto_BackendTraining\FifthDay\obj\Debug\FifthDay.csproj.AssemblyReference.cache
+C:\Users\gzman\Documents\GitHub\SoftITO_Backend_OnlineTraining\SoftIto_BackendTraining\FifthDay\obj\Debug\FifthDay.csproj.CoreCompileInputs.cache
+C:\Users\gzman\Documents\GitHub\SoftITO_Backend_OnlineTraining\SoftIto_BackendTraining\FifthDay\obj\Debug\FifthDay.exe
+C:\Users\gzman\Documents\GitHub\SoftITO_Backend_OnlineTraining\SoftIto_BackendTraining\FifthDay\obj\Debug\FifthDay.pdb
