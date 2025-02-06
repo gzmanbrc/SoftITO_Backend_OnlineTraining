@@ -1,0 +1,7 @@
+C:\Users\gzman\Documents\GitHub\SoftITO_Backend_OnlineTraining\Softito_Homeworks\BasicCafeSystem\bin\Debug\BasicCafeSystem.exe.config
+C:\Users\gzman\Documents\GitHub\SoftITO_Backend_OnlineTraining\Softito_Homeworks\BasicCafeSystem\bin\Debug\BasicCafeSystem.exe
+C:\Users\gzman\Documents\GitHub\SoftITO_Backend_OnlineTraining\Softito_Homeworks\BasicCafeSystem\bin\Debug\BasicCafeSystem.pdb
+C:\Users\gzman\Documents\GitHub\SoftITO_Backend_OnlineTraining\Softito_Homeworks\BasicCafeSystem\obj\Debug\BasicCafeSystem.csproj.AssemblyReference.cache
+C:\Users\gzman\Documents\GitHub\SoftITO_Backend_OnlineTraining\Softito_Homeworks\BasicCafeSystem\obj\Debug\BasicCafeSystem.csproj.CoreCompileInputs.cache
+C:\Users\gzman\Documents\GitHub\SoftITO_Backend_OnlineTraining\Softito_Homeworks\BasicCafeSystem\obj\Debug\BasicCafeSystem.exe
+C:\Users\gzman\Documents\GitHub\SoftITO_Backend_OnlineTraining\Softito_Homeworks\BasicCafeSystem\obj\Debug\BasicCafeSystem.pdb

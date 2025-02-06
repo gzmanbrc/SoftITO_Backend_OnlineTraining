@@ -1,7 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gzman\\Desktop\\C#_\\Softito_Homeworks\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\gzman\\Documents\\GitHub\\SoftITO_Backend_OnlineTraining\\Softito_Homeworks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F189CC7-463D-4A29-B1C6-597661EFF37B}|BasicCafeSystem\\BasicCafeSystem.csproj|c:\\users\\gzman\\documents\\github\\softito_backend_onlinetraining\\softito_homeworks\\basiccafesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F189CC7-463D-4A29-B1C6-597661EFF37B}|BasicCafeSystem\\BasicCafeSystem.csproj|solutionrelative:basiccafesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5697DF2F-4C7E-4C3D-A75B-420FAD2E8DEE}|ForToWhileHomework\\ForToWhileHomework.csproj|C:\\Users\\gzman\\Documents\\GitHub\\SoftITO_Backend_OnlineTraining\\Softito_Homeworks\\fortowhilehomework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5697DF2F-4C7E-4C3D-A75B-420FAD2E8DEE}|ForToWhileHomework\\ForToWhileHomework.csproj|solutionrelative:fortowhilehomework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,11 +18,36 @@
       "DocumentGroups": [
         {
           "DockedHeight": 190,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gzman\\Documents\\GitHub\\SoftITO_Backend_OnlineTraining\\Softito_Homeworks\\BasicCafeSystem\\Program.cs",
+              "RelativeDocumentMoniker": "BasicCafeSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\gzman\\Documents\\GitHub\\SoftITO_Backend_OnlineTraining\\Softito_Homeworks\\BasicCafeSystem\\Program.cs*",
+              "RelativeToolTip": "BasicCafeSystem\\Program.cs*",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAQwGwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T17:13:17.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gzman\\Documents\\GitHub\\SoftITO_Backend_OnlineTraining\\Softito_Homeworks\\ForToWhileHomework\\Program.cs",
+              "RelativeDocumentMoniker": "ForToWhileHomework\\Program.cs",
+              "ToolTip": "C:\\Users\\gzman\\Documents\\GitHub\\SoftITO_Backend_OnlineTraining\\Softito_Homeworks\\ForToWhileHomework\\Program.cs",
+              "RelativeToolTip": "ForToWhileHomework\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T16:37:43.83Z"
             }
           ]
         }

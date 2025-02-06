@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\gzman\\Documents\\GitHub\\SoftITO_Backend_OnlineTraining\\SoftIto_BackendTraining\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A33BD613-1057-4206-AD8E-622F9E42D280}|SixthDay\\SixthDay.csproj|c:\\users\\gzman\\documents\\github\\softito_backend_onlinetraining\\softito_backendtraining\\sixthday\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A33BD613-1057-4206-AD8E-622F9E42D280}|SixthDay\\SixthDay.csproj|solutionrelative:sixthday\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{04935688-0930-47D8-9BE7-2CB0C95A28A6}|FifthDay\\FifthDay.csproj|c:\\users\\gzman\\documents\\github\\softito_backend_onlinetraining\\softito_backendtraining\\fifthday\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04935688-0930-47D8-9BE7-2CB0C95A28A6}|FifthDay\\FifthDay.csproj|solutionrelative:fifthday\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33BD613-1057-4206-AD8E-622F9E42D280}|SixthDay\\SixthDay.csproj|C:\\Users\\gzman\\Documents\\GitHub\\SoftITO_Backend_OnlineTraining\\SoftIto_BackendTraining\\sixthday\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33BD613-1057-4206-AD8E-622F9E42D280}|SixthDay\\SixthDay.csproj|solutionrelative:sixthday\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F8B4AE5C-C948-4A52-A319-A92D42FC97F8}|ThirdDay\\ThirdDay.csproj|C:\\Users\\gzman\\Documents\\GitHub\\SoftITO_Backend_OnlineTraining\\SoftIto_BackendTraining\\thirdday\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 190,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gzman\\Documents\\GitHub\\SoftITO_Backend_OnlineTraining\\SoftIto_BackendTraining\\SixthDay\\Program.cs",
               "RelativeDocumentMoniker": "SixthDay\\Program.cs",
@@ -50,18 +50,17 @@
               "RelativeToolTip": "SixthDay\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T20:03:43.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T20:03:43.549Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gzman\\Documents\\GitHub\\SoftITO_Backend_OnlineTraining\\SoftIto_BackendTraining\\FifthDay\\Program.cs",
               "RelativeDocumentMoniker": "FifthDay\\Program.cs",
               "ToolTip": "C:\\Users\\gzman\\Documents\\GitHub\\SoftITO_Backend_OnlineTraining\\SoftIto_BackendTraining\\FifthDay\\Program.cs",
               "RelativeToolTip": "FifthDay\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwG4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAcwLAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T19:09:51.079Z",
               "EditorCaption": ""
@@ -76,8 +75,7 @@
               "RelativeToolTip": "FourthDay\\Program.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAqwGwBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T18:36:02.278Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T18:36:02.278Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "ThirdDay\\Program.cs",
               "ViewState": "AgIAAGMBAAAAAAAAAAAQwLAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T16:16:01.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T16:16:01.15Z"
             },
             {
               "$type": "Document",
