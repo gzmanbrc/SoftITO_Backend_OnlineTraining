@@ -25,6 +25,8 @@ Each project will focus on specific backend topics, starting from the basics of 
 - **Day 5**: Arrays and Methods
 - **Day 6**: Methods and SQL Queries
 - **Day 7**: SQL Queries and Basic Database Operations
+- **Day 8**: Advanced SQL Queries and Relationships
+- **Day 9**: SQL Insert, Update, Delete, and Views
 
 ## Contribution
 
