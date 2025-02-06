@@ -28,6 +28,10 @@ Each project will focus on specific backend topics, starting from the basics of 
 - **Day 8**: Advanced SQL Queries and Relationships
 - **Day 9**: SQL Insert, Update, Delete, and Views
 
+### Homework Progress
+- **Homework 1**: In this task, all `for` loops were converted into `while` loops.
+- **Homework 2**: A simple cafe management system was designed where tables were selected, orders were placed from the menu, the bill was calculated, and payment was processed, all using if, for, switch-case, and arrays.
+
 ## Contribution
 
 Feel free to contribute by providing feedback or suggesting improvements. If you have any suggestions for future projects, please create an issue or submit a pull request.
