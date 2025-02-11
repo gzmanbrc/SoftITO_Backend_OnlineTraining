@@ -31,6 +31,7 @@ Each project will focus on specific backend topics, starting from the basics of 
 ### Homework Progress
 - **Homework 1**: In this task, all `for` loops were converted into `while` loops.
 - **Homework 2**: A simple cafe management system was designed where tables were selected, orders were placed from the menu, the bill was calculated, and payment was processed, all using if, for, switch-case, and arrays.
+- **Homework 3**:Basic Database, Sql querys, tables, triggers and stored procedures
 
 ## Contribution
 
